@@ -12,4 +12,4 @@ Stream Three
 https://m-e-c-20.github.io/my-full-template/stream-three.html
 
 Each page has an image of the logo and a link to the Wikipedia article of that particular technology.
-
+This website has been created using CSS and HTML.
